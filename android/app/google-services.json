@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249688389087",
+    "project_id": "travelvibe-c0f03",
+    "storage_bucket": "travelvibe-c0f03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249688389087:android:c4177e9ff9ce8e450a406a",
+        "android_client_info": {
+          "package_name": "com.example.travel_vibe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249688389087-9489h7tie1r8sc5p8752e4o8u6vldvs2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGVfAkEYCgG0AFu9YSCXY2Gw0n3y2tKg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249688389087-7v6ohj7id6b8nq4qsks7pmir4i18qeuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
