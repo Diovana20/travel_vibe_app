@@ -32,13 +32,13 @@ class _BottomNavigationBarExampleState
   static const TextStyle optionStyle =
       TextStyle(fontSize: 30, fontWeight: FontWeight.bold);
   static const List<Widget> _widgetOptions = <Widget>[
-    NewPost(),
+    Home(),
     //Home(),
     /*Text(
       'Index 0: Home',
       style: optionStyle,
     ),*/
-    Home(),
+    NewPost(),
     /*Text(
       'Index 1: Business',
       style: optionStyle,
@@ -66,12 +66,12 @@ class _BottomNavigationBarExampleState
         items: const <BottomNavigationBarItem>[
          
           BottomNavigationBarItem(
-            icon: Icon(Icons.add),
-            label: 'Business',
-          ),
-           BottomNavigationBarItem(
             icon: Icon(Icons.home),
             label: 'Home',
+          ),
+           BottomNavigationBarItem(
+            icon: Icon(Icons.add),
+            label: 'Postar',
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.person),
